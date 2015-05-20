@@ -19,17 +19,11 @@
                 . "salt = '$salt'");
         
         if($query) {
-            echo"Successfully created user: $username";
-            echo "<form method='link' action='../index.php'>
-                  <input  type='submit' value='Back'>
-                  </form>";
+            header("Location: " . $path . "index.php");
         }
         else{
             echo"<p>" . $_SESSION["connection"]->error . "</p>";
         }
     }else{
-        echo 'User already exists';
-        echo "<form method='link' action='../index.php'>
-              <input  type='submit' value='Back'>
-         </form>";
+        header("Location: " . $path . "index.php");
     }

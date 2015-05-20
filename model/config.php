@@ -4,12 +4,12 @@
     session_start();
     session_regenerate_id(true);
 
-    $path = "/kimd-blog/";
+    $path = "/Shoes/";
     
     $host = "localhost";
     $username = "root";
     $password = "root";
-    $database = "blog_db";
+    $database = "final_db";
     
     if(!isset($_SESSION["connection"])) {
         $connection = new Database($host, $username, $password, $database);

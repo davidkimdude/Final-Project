@@ -22,6 +22,4 @@
     else{
         echo "<p>Invalid username and password</p>";
     }
-    echo "<form method='link' action='../index.php'>
-          <input  type='submit' value='Back'>
-          </form>";
+    header("Location: " . $path . "index.php");
