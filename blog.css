@@ -61,7 +61,6 @@ a{
 }
 
 .circle {
-    display: grid;
     margin-left: 100px;
     border-radius: 50%;
     width: 150px;
@@ -77,4 +76,12 @@ a{
 
 .col-xs-4{
     margin-top: 260px;
+}
+
+.col-xs-4:hover .circle{
+    background: white;
+}
+
+.col-xs-4:hover #circle{
+    color: black;
 }

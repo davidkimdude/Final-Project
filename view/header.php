@@ -17,19 +17,19 @@ and open the template in the editor.
     </video>
     <body class="background">
         <div class="container">
-        <!--Makes the title-->
-        <div class="col-xs-4">
-        <div class="circle">
-            <a href="http://localhost/Shoes/login.php">Login</a>
-        </div>
-        </div>
-        <div class="col-xs-4">
-        <div class="circle">
-            <span class="glyphicon glyphicon-user" aria-hidden="true"></span>
-        </div>
-        </div>
-        <div class="col-xs-4">
-        <div class="circle">
-            <a href="http://localhost/Shoes/controller/logout-user.php">Logout</a>
-        </div>
-        </div>    
+            <!--Makes the title-->
+            <div class="col-xs-4">
+                <div class="circle">
+                    <a href="http://localhost/Shoes/login.php" id="circle">Login</a>
+                </div>
+            </div>
+            <div class="col-xs-4">
+                <div class="circle">
+                    <span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+                </div>
+            </div>
+            <div class="col-xs-4">
+                <div class="circle">
+                    <a href="http://localhost/Shoes/controller/logout-user.php" id="circle">Logout</a>
+                </div>
+            </div>    
