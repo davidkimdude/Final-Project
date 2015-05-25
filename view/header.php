@@ -17,19 +17,8 @@ and open the template in the editor.
     </video>
     <body class="background">
         <div class="container">
-            <!--Makes the title-->
-            <div class="col-xs-4">
-                <div class="circle">
-                    <a href="http://localhost/Shoes/login.php" id="circle">Login</a>
-                </div>
-            </div>
-            <div class="col-xs-4">
-                <div class="circle">
-                    <span class="glyphicon glyphicon-user" aria-hidden="true"></span>
-                </div>
-            </div>
-            <div class="col-xs-4">
-                <div class="circle">
-                    <a href="http://localhost/Shoes/controller/logout-user.php" id="circle">Logout</a>
-                </div>
-            </div>    
+            <ul>
+                <li><a href="http://localhost/Shoes/login.php" class="round green">Login<span class="round">Click this if you already have an account.</span></a></li>
+                <li><a href="http://localhost/Shoes/register.php" class="round red">Sign Up<span class="round">Click this if you want to make an account.</span></a></li>
+                <li><a href="http://localhost/Shoes/controller/logout-user.php" class="round yellow">Logout<span class="round">Logout from the website.</span></a></li>
+            </ul>
