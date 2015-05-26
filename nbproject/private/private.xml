@@ -3,21 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/Shoes/test.php</file>
-            <file>file:/C:/xampp/htdocs/Shoes/view/register-form.php</file>
-            <file>file:/C:/xampp/htdocs/Shoes/controller/create-db.php</file>
-            <file>file:/C:/xampp/htdocs/Shoes/model/Database.php</file>
-            <file>file:/C:/xampp/htdocs/Shoes/view/login-form.php</file>
-            <file>file:/C:/xampp/htdocs/Shoes/controller/logout-user.php</file>
-            <file>file:/C:/xampp/htdocs/Shoes/controller/create-user.php</file>
-            <file>file:/C:/xampp/htdocs/Shoes/view/footer.php</file>
-            <file>file:/C:/xampp/htdocs/Shoes/controller/login-user.php</file>
+            <file>file:/C:/xampp/htdocs/Shoes/menu.css</file>
             <file>file:/C:/xampp/htdocs/Shoes/view/header.php</file>
             <file>file:/C:/xampp/htdocs/Shoes/blog.css</file>
-            <file>file:/C:/xampp/htdocs/Shoes/controller/login-verify.php</file>
+            <file>file:/C:/xampp/htdocs/Shoes/view/foot.php</file>
+            <file>file:/C:/xampp/htdocs/Shoes/livescore.php</file>
+            <file>file:/C:/xampp/htdocs/Shoes/view/head.php</file>
             <file>file:/C:/xampp/htdocs/Shoes/index.php</file>
-            <file>file:/C:/xampp/htdocs/Shoes/login.php</file>
-            <file>file:/C:/xampp/htdocs/Shoes/model/config.php</file>
+            <file>file:/C:/xampp/htdocs/Shoes/controller/login-user.php</file>
         </group>
     </open-files>
 </project-private>

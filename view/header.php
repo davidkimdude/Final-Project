@@ -10,15 +10,24 @@ and open the template in the editor.
         <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
         <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
         <link type="text/css" rel="stylesheet" href="blog.css">
+        <link href='http://fonts.googleapis.com/css?family=Exo+2' rel='stylesheet' type='text/css'>
         <title></title>
     </head>
     <video controls muted autoplay loop poster="yee.png" id="bgvid">
-        <source src="images/football.mp4" type="video/mp4">
+        <source src="images/pumpup.mp4" type="video/mp4">
     </video>
     <body class="background">
         <div class="container">
-            <ul>
-                <li><a href="http://localhost/Shoes/login.php" class="round green">Login<span class="round">Click this if you already have an account.</span></a></li>
-                <li><a href="http://localhost/Shoes/register.php" class="round red">Sign Up<span class="round">Click this if you want to make an account.</span></a></li>
-                <li><a href="http://localhost/Shoes/controller/logout-user.php" class="round yellow">Logout<span class="round">Logout from the website.</span></a></li>
-            </ul>
+            <h1 class="text-center">Welcome</h1>
+            <div class="col-xs-12">
+                <div class="col-xs-3"></div>
+                <div class="col-xs-6">
+            <hr>
+                </div>
+                <div class="col-xs-3"></div>
+            </div>
+            <p>Experience the hype.</p>
+            <div class="ph-float">
+        <a href='http://localhost/Shoes/home.php' class='ph-button ph-btn-blue'>Explore</a>
+    </div>
+            
