@@ -8,7 +8,7 @@
     }
 ?>
 <!--Form to make a post-->
-<h1>Create Blog Post</h1>
+<h1>Write Feedback</h1>
 
 <form method="post" action="<?php echo $path . "controller/create-post.php"; ?>">
     <div class="form-group">
@@ -18,7 +18,7 @@
     
     <div class="form-group">
         <label for="post">Post</label>
-        <textarea name="post" class="form-control" row="3" placeholder="Type in your post"></textarea>
+        <textarea name="post" class="form-control" row="3" placeholder="Feel free to write anything to suggest to make this webstie better!"></textarea>
     </div>    
     
     <div>

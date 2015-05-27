@@ -20,7 +20,8 @@
            <li><a href="http://localhost/Shoes/login.php">Login</a></li>
            <li><a href="http://localhost/Shoes/register.php">Register</a></li>
            <li><a href="http://localhost/Shoes/controller/logout-user.php">Logout</a></li>
-            <li><a href="http://localhost/Shoes/livescore.php">Live Score</a></li>
+           <li><a href="http://localhost/Shoes/livescore.php">Live Score</a></li>
+           <li><a href="http://localhost/Shoes/feedback.php">Feedback</a></li>
        </ul>
    </nav>
 </div>

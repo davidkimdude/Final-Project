@@ -18,7 +18,7 @@ and open the template in the editor.
     </video>
     <body class="background">
         <div class="container">
-            <h1 class="text-center">Welcome</h1>
+            <h1 class="text-center">Kermit</h1>
             <div class="col-xs-12">
                 <div class="col-xs-3"></div>
                 <div class="col-xs-6">
@@ -26,7 +26,7 @@ and open the template in the editor.
                 </div>
                 <div class="col-xs-3"></div>
             </div>
-            <p>Experience the hype.</p>
+            <p>Thomas the Dank Engine</p>
             <div class="ph-float">
         <a href='http://localhost/Shoes/home.php' class='ph-button ph-btn-blue'>Explore</a>
     </div>
