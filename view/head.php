@@ -4,7 +4,8 @@
         <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
         <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
         <link type="text/css" rel="stylesheet" href="menu.css">
-        <title></title>
+        <link href='http://fonts.googleapis.com/css?family=Exo+2' rel='stylesheet' type='text/css'>
+        <title>Kermit</title>
     </head>
     <body class="background">
         <div class="menu-outer">

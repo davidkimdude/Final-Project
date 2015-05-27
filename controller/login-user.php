@@ -22,4 +22,4 @@
     else{
         echo "<p>Invalid username and password</p>";
     }
-    header("Location: " . $path . "index.php");
+    header("Location: " . $path . "home.php");

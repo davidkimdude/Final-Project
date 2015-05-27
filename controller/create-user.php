@@ -25,5 +25,5 @@
             echo"<p>" . $_SESSION["connection"]->error . "</p>";
         }
     }else{
-        header("Location: " . $path . "index.php");
+        header("Location: " . $path . "home.php");
     }

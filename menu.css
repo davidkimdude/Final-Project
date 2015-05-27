@@ -10,13 +10,14 @@
 html, body {
   background-size: 1500px;  
   background-image: url("http://images8.alphacoders.com/408/408738.jpg");
+  font-family: 'Exo 2', sans-serif;
 }
 
 .menu-outer {
   overflow: hidden;
   position: fixed;
   top: 0;
-  font-family: 'Montserrat', serif;
+  font-family: 'Exo 2', sans-serif;
   z-index: 998;  
   width: 100%;
   left: 100%;

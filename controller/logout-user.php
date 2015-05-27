@@ -5,4 +5,4 @@
     unset($_SESSION["authenticated"]);
     
     session_destroy();
-    header("Location: " . $path . "index.php");
+    header("Location: " . $path . "home.php");

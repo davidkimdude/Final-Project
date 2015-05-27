@@ -11,7 +11,7 @@ and open the template in the editor.
         <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
         <link type="text/css" rel="stylesheet" href="blog.css">
         <link href='http://fonts.googleapis.com/css?family=Exo+2' rel='stylesheet' type='text/css'>
-        <title></title>
+        <title>Kermit</title>
     </head>
     <video controls muted autoplay loop poster="yee.png" id="bgvid">
         <source src="images/pumpup.mp4" type="video/mp4">

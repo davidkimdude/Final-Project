@@ -1,3 +1,4 @@
+<div class="col-xs-9">
 <html>
     <head>
         <meta charset="UTF-8">
@@ -11,3 +12,4 @@ __initLivescore({"c1":"F0F0F0","c2":"BABCC3","c4":"FFFFFF","c5":"FFFFFF","c6":"C
 
     </body>
 </html>
+</div>
