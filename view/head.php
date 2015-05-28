@@ -16,7 +16,7 @@
     </div>
     <nav>
         <ul>
-            <li><a href="http://localhost/Shoes/home.php">Home</a></li>
+           <li><a href="http://localhost/Shoes/home.php">Home</a></li>
            <li><a href="http://localhost/Shoes/login.php">Login</a></li>
            <li><a href="http://localhost/Shoes/register.php">Register</a></li>
            <li><a href="http://localhost/Shoes/controller/logout-user.php">Logout</a></li>

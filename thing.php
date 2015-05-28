@@ -7,3 +7,12 @@
     If you want to see more projects from me, check out the links below!<br>
     I hope you have a fun time whenever you are using my website.
 </p>
+<div class="col-xs-4">
+    <a href="http://localhost:8383/MarioDavidK/index.html"><img src="images/mario.PNG" class="img-thumbnail" id="dd"></a>
+</div>
+<div class="col-xs-4">
+    <a href="http://localhost/DavidKAwesomenaut/index.php"><img src="images/awesomenauts.jpg" class="img-thumbnail" id="ss"></a>
+</div>
+<div class="col-xs-4">
+    <a href="http://localhost:8383/Portfolio3DavidK/home.html"><img src="images/logo.jpg" class="img-thumbnail" id="pp"></a>
+</div>
