@@ -1,5 +1,7 @@
+<!--Sets up the homepage-->
 <h1>Welcome</h1>
 <hr>
+<!--A paragraph that tells you about this website-->
 <p>Welcome to my website!<br>
     In this website, you can see sports live scores from all around the world.<br>
     You can chat with other people on the website with our live chatting widget.<br>
@@ -7,6 +9,7 @@
     If you want to see more projects from me, check out the links below!<br>
     I hope you have a fun time whenever you are using my website.
 </p>
+<!--Sets the images as links-->
 <div class="col-xs-4">
     <a href="http://localhost:8383/MarioDavidK/index.html"><img src="images/mario.PNG" class="img-thumbnail" id="dd"></a>
 </div>

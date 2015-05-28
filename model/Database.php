@@ -1,4 +1,5 @@
 <?php
+
 //Make up the database
 
 class Database {
@@ -10,6 +11,7 @@ class Database {
     private $database;
     public $error;
 
+    //Builds the database
     public function __construct($host, $username, $password, $database) {
         $this->host = $host;
         $this->username = $username;
@@ -35,6 +37,7 @@ class Database {
         }
     }
 
+    //Connects the website and database.
     public function openConnection() {
         $this->connection = new mysqli($this->host, $this->username, $this->password, $this->database);
 
@@ -43,21 +46,23 @@ class Database {
         }
     }
 
+    //Closes connection.
     public function closeConnection() {
         if (isset($this->connection)) {
             $this->connection->close();
         }
     }
 
+    //Use query to connect to the database
     public function query($string) {
         $this->openConnection();
 
         $query = $this->connection->query($string);
-        
-        if(!$query) {
+
+        if (!$query) {
             $this->error = $this->connection->error;
         }
-        
+
         $this->closeConnection();
 
         return $query;

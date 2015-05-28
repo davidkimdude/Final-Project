@@ -1,15 +1,15 @@
 /*Controls the size and place of video*/
 video#bgvid {
-/*set the position to the before every elements*/    
-position: fixed; right: 0; bottom: 0;
-/*Set the minimum height and width to 100% so it covers the whole page*/
-min-width: 100%; min-height: 100%;
-width: auto; height: auto; z-index: -100;
-background: url() no-repeat;
-/*Covers the whole page*/
-background-size: cover;
+    /*set the position to the before every elements*/    
+    position: fixed; right: 0; bottom: 0;
+    /*Set the minimum height and width to 100% so it covers the whole page*/
+    min-width: 100%; min-height: 100%;
+    width: auto; height: auto; z-index: -100;
+    background: url() no-repeat;
+    /*Covers the whole page*/
+    background-size: cover;
 }
-
+/*Sets the position of things*/
 #button{
     margin-left: 132px;
 }
@@ -17,11 +17,7 @@ background-size: cover;
 #portfolio{
     margin-left: 635px;
 }
-
-.background{
-    background: rgba(0,0,0,0.6);
-}
-
+/*Sets the colors of the letters*/
 h2{
     color: white;
 }
@@ -35,17 +31,17 @@ label{
 }
 //Makes the button looks more nice
 .btn {
-  display: inline-block;
-  border-radius: 2px;
-  border: none;
-  height: 45px;
-  padding: 0;
-  margin-top: 5px;
-  margin-bottom: 5px;
+    display: inline-block;
+    border-radius: 2px;
+    border: none;
+    height: 45px;
+    padding: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .md {
-  width: 20%;
+    width: 20%;
 }
 
 h1{
@@ -60,7 +56,7 @@ a{
 u{
     color: white;
 }
-
+/*Use the font from google font*/
 body{
     font-family: 'Exo 2', sans-serif;
 }
@@ -70,9 +66,9 @@ p{
     color: white;
     font-size: 25px;
 }
-
+/*CSS for the button on the index page*/
 .ph-button {
-	
+
     border-style: solid;
     border-width: 0px 0px 3px;
     box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.1) inset;
@@ -91,16 +87,16 @@ p{
     font-weight: 700;	
     padding: 19px 39px 18px;
     font-size: 18px;
-	
+
 }
 
 .ph-float {
-  margin-left: 440px;
-  float: left;
-  width: 22%;
-  padding: 10px;  
-  padding-top: 50px;  
-  text-align: center;
+    margin-left: 440px;
+    float: left;
+    width: 22%;
+    padding: 10px;  
+    padding-top: 50px;  
+    text-align: center;
 
 }
 
