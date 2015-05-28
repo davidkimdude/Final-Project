@@ -4,7 +4,7 @@
     session_start();
     session_regenerate_id(true);
 
-    $path = "/Shoes/";
+    $path = "/final/";
     
     $host = "localhost";
     $username = "root";
